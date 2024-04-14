@@ -5,25 +5,25 @@
 <head>
     <title>
         Vets who code! Louis Rodriguez Introduction
-    </title>
+    </title> 
+
+    <p>
+        Louis Rodriguez, Army Reserve, 386th Med Log, 68J Medical Logistician</h6>
+        I was drawn into tech after leaving the military.
+        I started working as truck driver and listening to
+        plenty of podcast and talk radio while on the road.
+        I found out about AWS funding programs at community colleges.
+        After knocking out some math courses I started to dive into networking, cloud utlities, and
+        now I have peaked an interest in programming.
+    </p>    
+        
 </head>
 
-</html>
+
 
 <body>
-    <header>
-        <h1>Louis Rodriguez</h1>
-        <h3> Army Reserve </h3>
-        <h5>386th Med Log</h5>
-        <h6>68J Medical Logistician</h6>
-        <p>
-        <div>I was drawn into tech after leaving the military.</div>
-        <div>I started working as truck driver and listening to
-            plenty of podcast and talk radio while on the road.</div>
-        <div>I found out about AWS funding programs at community
-            colleges. </div>
-        <div>After knocking out some math courses I started to dive into networking, cloud utlities, and
-            now I have peaked an interest in programming.</div>
+    <background <img src="61-3.png" alt="Image description" /> >
+    
 
         </p>
 
@@ -44,17 +44,17 @@
         </section>
 
         <section>
-            <h2>Contact Me</h2>
+            <h2>C</h2>
             <p>Email: example@example.com</p>
             <p>Phone: 123-456-7890</p>
         </section>
     </main>
 
     <footer>
-        <p>&copy; 2022 My Website. All rights reserved.</p>
+        <p><a href="https://excalidraw.com/#json=GeuBcW_Ct_X3NvGZdYau_,hyPn_woYopB8TpJAG4FsQA">Wiremap planning</a></p>
     </footer>
 </body>
 
-</html>
 
-//plan for site in wireframe found at link; https://excalidraw.com/#json=GeuBcW_Ct_X3NvGZdYau_,hyPn_woYopB8TpJAG4FsQA
+
+//plan for site in wireframe found at link; https://excalidraw.com/#json=2_5phPzfOIvd9g4REO8Mo,ru2TUJxR1Cdeqj3Qz6rT9g
