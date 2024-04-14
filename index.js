@@ -4,6 +4,8 @@
 
 //https://youtu.be/dX8396ZmSPk?si=PlQuYioH1LbIxs8R
 
+//https://stackoverflow.com/questions/71058698/how-do-i-add-a-hyperlink-in-my-text-using-javascript
+
 //https://youtube.com/shorts/wJcCfAgoraI?si=5Hsd8Bpyx5m6Ovsc
 //https://haveibeenpwned.com/
 
