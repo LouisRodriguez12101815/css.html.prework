@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>
+        Vets who code! Louis Rodriguez Introduction
+    </title>
+</head>
+
+</html>
+
+<body>
+    <header>
+        <h1>Louis Rodriguez</h1>
+        <h3> Army Reserve </h3>
+        <h5>386th Med Log</h5>
+        <h6>68J Medical Logistician</h6>
+        <p>
+        <div>I was drawn into tech after leaving the military.</div>
+        <div>I started working as truck driver and listening to
+            plenty of podcast and talk radio while on the road.</div>
+        <div>I found out about AWS funding programs at community
+            colleges. </div>
+        <div>After knocking out some math courses I started to dive into networking, cloud utlities, and
+            now I have peaked an interest in programming.</div>
+
+        </p>
+
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Standing on the shoulders of Giants</a></li>
+            <li><a href="#">Wow factor</a></li>
+            <li><a href="#">Contact Information</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </section>
+
+        <section>
+            <h2>Contact Me</h2>
+            <p>Email: example@example.com</p>
+            <p>Phone: 123-456-7890</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2022 My Website. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
+
+//plan for site in wireframe found at link; https://excalidraw.com/#json=GeuBcW_Ct_X3NvGZdYau_,hyPn_woYopB8TpJAG4FsQA
